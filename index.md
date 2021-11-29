@@ -1,4 +1,3 @@
-## Light Up Floridass
 
 <p align = "center">
 <iframe width="1200" height="675" src="https://www.youtube.com/embed/sRneDVWu3Hw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
