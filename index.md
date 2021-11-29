@@ -5,7 +5,17 @@
 </p>
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/sRneDVWu3Hw/0.jpg)](https://www.youtube.com/watch?v=sRneDVWu3Hw)
+
+
+
+
+
+
+
+
+
+
+
 
 
 You can use the [editor on GitHub](https://github.com/lobstergo/light-up-florida/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
