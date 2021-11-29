@@ -1,3 +1,4 @@
+# Light Up Florida
 ## LIGHT UP FLORIDA
 
 <p align = "center">
