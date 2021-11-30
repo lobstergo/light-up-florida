@@ -15,7 +15,7 @@ Florida's high CO2 Emission is mainly due to the **unfit resource structure**, i
 ## Target
 It is no exaggeration to say that optimizing Florida's energy structure and reducing carbon emissions are imminent. Using renewable energy instead of a high-carbon source is a more intuitive way, two methods could be used to reach this target, which could be concluded as **more renewable energy and less traditional energy**. 
 
-![IMG 1 Renewable Energy Consumption](https://user-images.githubusercontent.com/94873300/144022838-43f147cb-3cea-4f7d-8d31-c2cee5ee6613.png | width = 500)
+![IMG 1 Renewable Energy Consumption](https://user-images.githubusercontent.com/94873300/144022838-43f147cb-3cea-4f7d-8d31-c2cee5ee6613.png width = 500)
 
 ## Solution
 Among all the renewable energy, **solar** is a renewable energy source that we should concentrate on. Based on the data from State Energy Data Systems, the four most commonly used renewable resources in Florida are solar, biomass, hydropower, and wind energy. Each has its own advantages and disadvantages. It is worth noticing that although most renewable energy sources emit much less carbon than high-carbon sources, biomass and hydropower are two renewable energy sources with relatively high carbon emissions, solar and wind, on the other hand, are both environmentally friendly. However, given the fact that Florida's flat terrain and not reaching wind speeds with an annual average of 6.5 meters per second at a height of 80 meters. **Solar energy is the most suitable for Florida with its advantages like limitless source, low carbon emission, decreasing installation costs, and no noise in comparison**. 
