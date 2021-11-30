@@ -71,8 +71,11 @@ According to our calculations, the fixed cost of building a typical size PV plan
 
 ![IMG 11 Feasibility Analysis](https://user-images.githubusercontent.com/94873300/144026987-e4d8979a-aec4-439e-b13c-303bbb091297.jpeg)
 
-## Conclusion
-(test) We don't have it.
+## Conclusions & Look Forward
+To sum up, through machine learning we were able to find the theoretical optimal locations for future solar stations. Simultaneously, we are able to illustrate the economic and environmental benefits and viability of this strategy through thorough calculations. Therefore, it has been demonstrated in numerous ways that expanding the use of solar energy rather than traditional energy is a viable strategy to improve Florida's energy generation and thus develop a better, healthier, and greener future for Florida.
+
+We advocate the development of Energy Storage Tech that lets the electricity generated in the day be used at night. Less traditional energy will be used, and Florida will eventually reach carbon neutrality.
+
 
 ------------------------------------
 
