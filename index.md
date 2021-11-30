@@ -1,8 +1,7 @@
 # LIGHT UP FLORIDA
 ## Challenge Statement 4: Power Consumption
 
-<iframe width="800" height="450" src="https://www.youtube.com/embed/sRneDVWu3Hw" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="800" height="450" src="https://www.youtube.com/embed/_dOer8_41tc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Introduction
 The sunny state of Florida, located in the southeastern part of the United States, is a dream place where people yearn for the good life. Introducing new sources of energy to improve Florida's energy generation and build a better, healthier, greener Florida is the challenge we need to address.
