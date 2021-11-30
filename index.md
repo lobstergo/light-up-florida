@@ -69,6 +69,7 @@ After conducting a feasibility analysis, there are certain risks associated with
 
 According to our calculations, the fixed cost of building a typical size PV plant is equivalent to the sum of 3.68 years' carbon treatment costs for a conventional power generation facility at the same capacity, which means the cost of building a PV plant can be covered within 4 years.
 
+![IMG 11 Feasibility Analysis](https://user-images.githubusercontent.com/94873300/144026987-e4d8979a-aec4-439e-b13c-303bbb091297.jpeg)
 
 
 
