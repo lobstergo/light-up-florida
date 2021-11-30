@@ -61,7 +61,7 @@ In view of the limitations of linear regression, we decided to build another log
 And using data from Florida to predict. The two models output their respective prediction results.
 
 ### Result
-After combining the results of the two models, we came up with 18 suitable locations for solar power stations. 12 of the locations already had solar power stations, so our machine learning models eventually found 6 suitable locations for solar power stations.
+After combining the results of the two models, we came up with 18 suitable locations for solar power stations. 12 of the locations already had solar power stations, so our machine learning models eventually found 6 suitable locations for solar power stations. The theoretical optimal 6 zip codes for building PV plants are 33012, 33063, 33064, 33065, 33311, and 33313.
 
 ![IMG 10 Predictions Result](https://user-images.githubusercontent.com/94873300/144025326-c78403de-f4ff-408b-92d9-93414ae773e2.jpeg)
 
