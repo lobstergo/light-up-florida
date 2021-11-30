@@ -64,6 +64,10 @@ After combining the results of the two models, we came up with 18 suitable locat
 
 ![IMG 10 Predictions Result](https://user-images.githubusercontent.com/94873300/144025326-c78403de-f4ff-408b-92d9-93414ae773e2.jpeg)
 
+### Feasibility Analysis
+After conducting a feasibility analysis, there are certain risks associated with the construction of solar power plants. First, the construction of solar power plants have high infrastructure construction costs; second, its related core technology is still in the research and development stage and is not advanced enough; finally, due to environmental constraints such as no solar energy at night, or in cool, cloudy climates, in these environments does not generate enough solar energy. But there are also significant benefits to building solar power plants. First, low environmental management costs or import costs; second, great potential for future technological development; and third, no greenhouse gas emissions. Except for the expense aspect, the other two advantages of solar stations can make up for the shortfalls.
+
+According to our calculations, the fixed cost of building a typical size PV plant is equivalent to the sum of 3.68 years' carbon treatment costs for a conventional power generation facility at the same capacity, which means the cost of building a PV plant can be covered within 4 years.
 
 
 
