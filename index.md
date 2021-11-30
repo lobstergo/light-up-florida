@@ -14,10 +14,10 @@ Today, Florida's energy problems cannot be ignored. It uses more energy per capi
 Florida's high CO2 Emission is mainly due to the unfit resource structure, in other words, it has too many high-carbon sources but will have few renewable sources. The non-renewable resources Florida had,  such as natural gas, coal, and petroleum provided approximately 80.3% of Florida's energy and generated a significant amount of CO2 in the process of use. Additionally, its high-carbon source has an energy consumption of 3626.1 Trillion Btu whereas renewable energy with only 617.5 trillion Btu energy consumption. 
 
 ## Target
-It is no exaggeration to say that optimizing Florida's energy structure and reducing carbon emissions are imminent. Using renewable energy instead of a high-carbon source is a more intuitive way, two methods could be used to reach this target, which could be concluded as more renewable energy and less traditional energy. 
+It is no exaggeration to say that optimizing Florida's energy structure and reducing carbon emissions are imminent. Using renewable energy instead of a high-carbon source is a more intuitive way, two methods could be used to reach this target, which could be concluded as **more renewable energy and less traditional energy**. 
 
-![IMG 1, Renewable Energy Consumption Estimates]
 
+![IMG 1 Renewable Energy Consumption](https://user-images.githubusercontent.com/94873300/144022838-43f147cb-3cea-4f7d-8d31-c2cee5ee6613.png)
 
 
 
