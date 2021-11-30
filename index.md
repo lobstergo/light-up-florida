@@ -35,6 +35,34 @@ In our previous research, we found that the main factors that determine whether 
 
 ![IMG 2 Data Frame](https://user-images.githubusercontent.com/94873300/144023708-fc35e2ec-fc57-4434-9c16-a4ab73821167.jpeg)
 
+Among the 2,694 locations, 182 have solar stations.
+
+![IMG 3 Bool Have Solar Station](https://user-images.githubusercontent.com/94873300/144023928-06492a3e-6b04-4104-a822-0ef1eeec9316.jpeg)
+
+In our visualization analysis, we can also see the influence of these attributes on whether a solar station can be built.
+
+![IMG 4 Influence Visual](https://user-images.githubusercontent.com/94873300/144024101-46062c1d-1185-4310-9829-9c8b30beb030.jpeg)
+
+First, we try to establish a linear regression model. We use 70 percent of the data for training and 30 percent for testing. The accuracy of the model is obtained.
+
+![IMG 5 Linear Regression](https://user-images.githubusercontent.com/94873300/144024446-38a5a5c0-9272-43b5-b08c-bec05c40bd5e.jpeg)
+![IMG 6 Import Metrics](https://user-images.githubusercontent.com/94873300/144024464-d9ed2e27-cd4f-4ee0-ba32-a2781a34332d.jpeg)
+
+We imported data from Florida and made projections.
+
+![IMG 7 df_F](https://user-images.githubusercontent.com/94873300/144024733-b8e2624f-a471-453b-901a-59079c27558e.jpeg)
+
+In view of the limitations of linear regression, we decided to build another logistic regression model.
+
+![IMG 8 Split](https://user-images.githubusercontent.com/94873300/144024907-b65d9a4b-f313-4457-90d4-692646e136b4.jpeg)
+
+![IMG 9 Accuracy](https://user-images.githubusercontent.com/94873300/144024916-ad63ba76-0e5d-4074-93a0-e515a80b9603.jpeg)
+
+And using data from Florida to predict. The two models output their respective prediction results.
+
+![IMG 10 Predictions Result](https://user-images.githubusercontent.com/94873300/144025326-c78403de-f4ff-408b-92d9-93414ae773e2.jpeg)
+
+
 
 
 
